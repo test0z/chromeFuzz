@@ -90,3 +90,134 @@ input:indeterminate { mask: url(#x12) center 0% / auto stroke-box add;appearance
   40% { -webkit-column-rule: medium rgba(141,131,148,126) }
 }
 </style>
+
+  @keyframes keyframes0 {
+  0% { caret-color: auto }
+  20% { caret-color: rgba(176,154,76,52) }
+}
+@keyframes keyframes1 {
+  80% { -webkit-opacity: 0 }
+  0% { -webkit-columns: auto auto }
+  100% { margin: 31% auto 39% 0em }
+  40% { -webkit-border-bottom-right-radius: 0% }
+  60% { -webkit-border-bottom-right-radius: 14% }
+  20% { inset: 29% 669em auto }
+}
+@keyframes keyframes2 {
+  100% { -webkit-box-shadow: 0em 10px 14px 4em rgb(97,207,36) }
+  0% { inset-inline-end: auto }
+}
+@keyframes keyframes3 {
+  80% { -webkit-filter: contrast(51%) }
+  0% { word-spacing: normal }
+  100% { object-position: left 1px bottom 0em }
+  60% { transform-origin: right }
+  20% { border-top-width: thin }
+  40% { mask: conic-gradient(from 90deg,transparent 98% 0%) left top / 78px 84% content-box padding-box luminance }
+}
+@keyframes keyframes4 {
+  80% { flex-basis: 0px }
+  60% { -webkit-transform: matrix(2,0.47,1,0.32,57,0.48) scale(0) }
+  100% { border-top-color: transparent }
+  40% { -webkit-column-rule: medium rgba(141,131,148,126) }
+}
+</style>
+
+<style>
+:root {
+  --css-color: green;
+  --css-length: 48472px;
+  --css-length-percent: 100%;
+  --css-line-width: 40em;
+}
+</style>
+<script>
+
+function doNothing() {}
+
+
+function gc() {
+    for(var i=0;i<100;i++) {
+        a = new Uint8Array(1024*1024);
+    }
+}
+var run_count = { "main": 0, "f0": 0, "f1": 0, "f2": 0, "f3": 0, "f4": 0, };
+function main() {
+
+run_count["main"]++;
+if (run_count["main"] > 2) return;
+
+var x1 = document.getElementById("x1");
+var x7 = document.getElementById("x7");
+var x26 = document.getElementById("x26");
+var x56 = document.getElementById("x56");
+var x2 = document.getElementById("x2");
+var x61 = document.getElementById("x61");
+var x3 = document.getElementById("x3");
+var x4 = document.getElementById("x4");
+var x51 = document.getElementById("x51");
+var x53 = document.getElementById("x53");
+var x5 = document.getElementById("x5");
+var x30 = document.getElementById("x30");
+var x6 = document.getElementById("x6");
+var x8 = document.getElementById("x8");
+var x9 = document.getElementById("x9");
+var x72 = document.getElementById("x72");
+var x10 = document.getElementById("x10");
+var x11 = document.getElementById("x11");
+var x18 = document.getElementById("x18");
+var x12 = document.getElementById("x12");
+var x23 = document.getElementById("x23");
+var x47 = document.getElementById("x47");
+var x13 = document.getElementById("x13");
+var x21 = document.getElementById("x21");
+var x14 = document.getElementById("x14");
+var x15 = document.getElementById("x15");
+var x16 = document.getElementById("x16");
+var x17 = document.getElementById("x17");
+var x19 = document.getElementById("x19");
+var x20 = document.getElementById("x20");
+var x22 = document.getElementById("x22");
+var x24 = document.getElementById("x24");
+var x37 = document.getElementById("x37");
+var x25 = document.getElementById("x25");
+var x27 = document.getElementById("x27");
+var x28 = document.getElementById("x28");
+var x29 = document.getElementById("x29");
+var x31 = document.getElementById("x31");
+var x62 = document.getElementById("x62");
+var x32 = document.getElementById("x32");
+var x33 = document.getElementById("x33");
+var x34 = document.getElementById("x34");
+var x35 = document.getElementById("x35");
+var x36 = document.getElementById("x36");
+var x52 = document.getElementById("x52");
+var x38 = document.getElementById("x38");
+var x39 = document.getElementById("x39");
+var x40 = document.getElementById("x40");
+var x41 = document.getElementById("x41");
+var x42 = document.getElementById("x42");
+var x43 = document.getElementById("x43");
+var x44 = document.getElementById("x44");
+var x45 = document.getElementById("x45");
+var x64 = document.getElementById("x64");
+var x46 = document.getElementById("x46");
+var x48 = document.getElementById("x48");
+var x49 = document.getElementById("x49");
+var x50 = document.getElementById("x50");
+var x67 = document.getElementById("x67");
+var x54 = document.getElementById("x54");
+var x55 = document.getElementById("x55");
+var x57 = document.getElementById("x57");
+var x58 = document.getElementById("x58");
+var x59 = document.getElementById("x59");
+var x60 = document.getElementById("x60");
+var x63 = document.getElementById("x63");
+var x65 = document.getElementById("x65");
+var x66 = document.getElementById("x66");
+var x68 = document.getElementById("x68");
+var x69 = document.getElementById("x69");
+var x70 = document.getElementById("x70");
+var x71 = document.getElementById("x71");
+var x73 = document.getElementById("x73");
+  
